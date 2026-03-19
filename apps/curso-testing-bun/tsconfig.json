@@ -1,0 +1,15 @@
+{
+	"extends": "../../tsconfig.json",
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"@modulo-01/*": ["src/modulo-01/*"],
+			"@modulo-02/*": ["src/modulo-02/*"],
+			"@modulo-03/*": ["src/modulo-03/*"],
+			"@modulo-04/*": ["src/modulo-04/*"]
+		},
+		"types": ["bun"]
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules", "dist"]
+}

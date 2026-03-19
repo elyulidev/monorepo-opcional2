@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "api-design-principles": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "b242f962d5f78bf8bc147e92f2aa0341459b9f5f2f955e9867a8c41b85f22648"
+    },
+    "bun-development": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "5c1994775936ae8ca3bf6bbabf79d449bf05bd03a34491123279a6d70e420e14"
+    },
+    "bun-test": {
+      "source": "daleseo/bun-skills",
+      "sourceType": "github",
+      "computedHash": "959ab50c5b6e640620d2e259e8388c0acaf7908a1839b8a7999a0cce2d5f83fa"
+    },
+    "elysiajs": {
+      "source": "elysiajs/skills",
+      "sourceType": "github",
+      "computedHash": "1f8cdb3c66e6127bd7e31fd5478bf912d976059896629cc58eec031f9bae0c74"
+    },
+    "monorepo-architect": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "166e281604478e20722e4b835fbb6821cd23f33746e1e1010bd12e3980adaa12"
+    }
+  }
+}

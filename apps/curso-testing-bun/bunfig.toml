@@ -1,0 +1,10 @@
+[test]
+# Timeout por test em milisegundos
+timeout = 5000
+
+# Ativar recolha de cobertura
+coverage = false
+coverageDir = "coverage"
+
+# Parar após a primeira falha
+bail = false
