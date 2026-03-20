@@ -4,7 +4,7 @@ import {
 	calcularTotal,
 	contarItens,
 	removerProduto,
-} from "./conf2";
+} from "./conf2-carrinho";
 
 describe("Carrinho de compras", () => {
 	let carrinho: Carrinho;
