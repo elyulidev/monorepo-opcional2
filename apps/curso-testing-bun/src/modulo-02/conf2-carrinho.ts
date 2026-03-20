@@ -1,4 +1,4 @@
-// src/modulo-01/carrinho.ts
+// src/modulo-02/carrinho.ts
 
 export interface Produto {
 	nome: string;
